@@ -1,0 +1,16 @@
+{
+  "name": "01-curso",
+  "version": "1.0.0",
+  "description": "Creador de archivos de tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {}
+}
